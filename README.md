@@ -18,12 +18,16 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-    <a href="https://www.facebook.com/kiran08joshi/" target="blank"><img align="center"
-            src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg"
-            alt="kiran joshi" height="30" width="40" /></a>
     <a href="https://www.instagram.com/w__kiran/" target="blank"><img align="center"
             src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
             alt="w__kiran" height="30" width="40" /></a>
+    <a href="https://www.facebook.com/kiran08joshi/" target="blank"><img align="center"
+            src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg"
+            alt="Kiran" height="30" width="40" /></a>
+    <a href="https://www.linkedin.com/in/kiran-js/" target="blank"><img align="center" 
+            src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" 
+            alt="Kiran" height="30" width="40" /></a>
+    
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
