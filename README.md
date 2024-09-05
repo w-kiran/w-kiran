@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Kiran Joshi Sukubhattu</h1>
+<h1 align="center">Hi 👋, I'm Kiran</h1>
 <h3 align="center">Digital Craftsman || Full Stack Geek || MERN</h3>
 
 <img align="right"
