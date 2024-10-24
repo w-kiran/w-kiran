@@ -5,7 +5,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=w-kiran&label=Profile%20views&color=0e75b6&style=flat"
         alt="w-kiran" /> </p>
 
-- 🌱 I’m currently learning **MERN stack web development.**
+- 🌱 I’m currently learning **MERN - web development.**
 
 - 👨‍💻 All of my projects are available at
 [https://github.com/w-kiran?tab=repositories](https://github.com/w-kiran?tab=repositories)
